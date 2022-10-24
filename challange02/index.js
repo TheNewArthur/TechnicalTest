@@ -27,6 +27,6 @@
         return sorted
     }
 
-    myFunction({a: 5, b: 4}, {a: 3, d: 1, e: 2})
+    console.log(myFunction({a: 5, b: 4}, {c: 3, d: 1, e: 2}))
 
 })();
